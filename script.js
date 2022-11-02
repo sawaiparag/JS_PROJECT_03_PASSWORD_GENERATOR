@@ -15,8 +15,33 @@ const randomFunc = {
 }
 
 clipboardEl.addEventListener('click', () => {
-    
-})
+//     const textspace = document.createElement("textspace");
+//     const pass = resultEl.innerText;
+
+//     if (!pass){
+//         return;
+//     }
+
+//     textspace.value = pass;
+//     document.body.appendChild(textspace);
+//     textspace.select();
+//     document.execCommand("copy");
+//     textspace.remove();
+//     alert("Pass Copied");  
+ const textarea = document.createElement("textarea");
+  const password = resultEl.innerText;
+
+  if (!password) {
+    return;
+  }
+
+  textarea.value = password;
+  document.body.appendChild(textarea);
+  textarea.select();
+  document.execCommand("copy");
+  textarea.remove();
+  alert("Password copied to clipboard");  
+ })
 
 generateEl.addEventListener('click', () => {
     
