@@ -1,4 +1,4 @@
-# JavaScript_Project02_Password Generator 
+# JavaScript_Project03_Password Generator 
 ## This Repository contains JavaScript assignment. 
 
 
