@@ -1,4 +1,4 @@
-# JavaScript_Project02_PassWord Generator 
+# JavaScript_Project02_Password Generator 
 ## This Repository contains JavaScript assignment. 
 
 
@@ -6,17 +6,12 @@ kindly suggest me for suggestion and if any improvement needed.
 
 
 ## 😌 Honest Time to finish the project
-For Completing this whole assignment I spend more than 12 hours. 
+For Completing this whole assignment I spend more than 2 days. 
 
 
 # Live Link
 
  [Please Click ME](https://password-generator-parag.netlify.app/)
-
-
-
-![Badge](https://img.shields.io/badge/JavaScript%20Project-Color__Changer-brightgreen)
-
 
 
 
